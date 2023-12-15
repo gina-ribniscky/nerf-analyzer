@@ -43,3 +43,27 @@ nfa9,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_acc_9
 nfa10,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_acc_10.png,brown rabbit
 nfa11,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_acc_11.png,pirate duck
 nfa12,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_acc_13.png,table
+lra1,images/fruit_aisle_lerf_lite_rgb_2.png,images/fruit_aisle_lerf_lite_acc_1.png,lemons
+lra2,images/fruit_aisle_lerf_lite_rgb_2.png,images/fruit_aisle_lerf_lite_acc_2.png,yellow bag
+lra3,images/fruit_aisle_lerf_lite_rgb_1.png,images/fruit_aisle_lerf_lite_acc_3.png,red apples
+lra4,images/fruit_aisle_lerf_lite_rgb_1.png,images/fruit_aisle_lerf_lite_acc_4.png,black bin
+lra5,images/fruit_aisle_lerf_lite_rgb_1.png,images/fruit_aisle_lerf_lite_acc_5.png,pretzels
+lra6,images/fruit_aisle_lerf_lite_rgb_1.png,images/fruit_aisle_lerf_lite_acc_6.png,shelf
+lra7,images/fruit_aisle_lerf_lite_rgb_1.png,images/fruit_aisle_lerf_lite_acc_7.png,oranges
+lra8,images/fruit_aisle_lerf_lite_rgb_1.png,images/fruit_aisle_lerf_lite_acc_8.png,purple bag
+lra9,images/fruit_aisle_lerf_lite_rgb_2.png,images/fruit_aisle_lerf_lite_acc_9.png,green apples
+lra10,images/fruit_aisle_lerf_lite_rgb_2.png,images/fruit_aisle_lerf_lite_acc_10.png,brown pears
+lra11,images/fruit_aisle_lerf_lite_rgb_1.png,images/fruit_aisle_lerf_lite_acc_11.png,stacked plums
+lra12,images/fruit_aisle_lerf_lite_rgb_1.png,images/fruit_aisle_lerf_lite_acc_12.png,bagged oranges
+nra1,images/fruit_aisle_neglerf_lite_rgb_2.png,images/fruit_aisle_neglerf_lite_acc_1.png,lemons
+nra2,images/fruit_aisle_neglerf_lite_rgb_2.png,images/fruit_aisle_neglerf_lite_acc_2.png,yellow bag
+nra3,images/fruit_aisle_neglerf_lite_rgb_1.png,images/fruit_aisle_neglerf_lite_acc_3.png,red apples
+nra4,images/fruit_aisle_neglerf_lite_rgb_1.png,images/fruit_aisle_neglerf_lite_acc_4.png,black bin
+nra5,images/fruit_aisle_neglerf_lite_rgb_1.png,images/fruit_aisle_neglerf_lite_acc_5.png,pretzels
+nra6,images/fruit_aisle_neglerf_lite_rgb_1.png,images/fruit_aisle_neglerf_lite_acc_6.png,shelf
+nra7,images/fruit_aisle_neglerf_lite_rgb_1.png,images/fruit_aisle_neglerf_lite_acc_7.png,oranges
+nra8,images/fruit_aisle_neglerf_lite_rgb_1.png,images/fruit_aisle_neglerf_lite_acc_8.png,purple bag
+nra9,images/fruit_aisle_neglerf_lite_rgb_2.png,images/fruit_aisle_neglerf_lite_acc_9.png,green apples
+nra10,images/fruit_aisle_neglerf_lite_rgb_2.png,images/fruit_aisle_neglerf_lite_acc_10.png,brown pears
+nra11,images/fruit_aisle_neglerf_lite_rgb_1.png,images/fruit_aisle_neglerf_lite_acc_11.png,stacked plums
+nra12,images/fruit_aisle_neglerf_lite_rgb_1.png,images/fruit_aisle_neglerf_lite_acc_12.png,bagged oranges

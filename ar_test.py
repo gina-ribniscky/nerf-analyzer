@@ -18,7 +18,7 @@ class ARTest:
     def get_button_labels(self, number):
         if number == 4:
             return ["Left", "Right", "Neither"]
-        return ["Yes", "No", "Partial"]
+        return ["Yes", "Partial", "No"]
 
     def get_ref_image(self, number):
         if number == 4:

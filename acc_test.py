@@ -14,7 +14,7 @@ class ACCTest:
         return self.id + "," + self.prompt + "," + str(self.result_q1) + "," + str(self.result_q2) + "," + str(self.result_q3)
 
     def get_button_labels(self, number):
-        return ["Yes", "No", "Partial"]
+        return ["Yes", "Partial", "No"]
 
     def get_ref_image(self, number):
         return self.ref_img
