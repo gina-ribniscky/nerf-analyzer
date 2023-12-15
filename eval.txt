@@ -1,0 +1,264 @@
+lta1,bear,-1,-1,-1
+lta2,table,-1,-1,-1
+lta3,cookies,-1,-1,-1
+lta4,plate,-1,-1,-1
+lta5,spoon,-1,-1,-1
+lta6,tea,-1,-1,-1
+lta7,apple,-1,-1,-1
+lta8,soda,-1,-1,-1
+lta9,bitten cookie,-1,-1,-1
+lta10,blue necklace,-1,-1,-1
+lta11,plush sheep,-1,-1,-1
+nta1,bear,-1,-1,-1
+nta2,table,-1,-1,-1
+nta3,cookies,-1,-1,-1
+nta4,plate,-1,-1,-1
+nta5,spoon,-1,-1,-1
+nta6,tea,-1,-1,-1
+nta7,apple,-1,-1,-1
+nta8,soda,-1,-1,-1
+nta9,bitten cookie,-1,-1,-1
+nta10,blue necklace,-1,-1,-1
+nta11,plush sheep,-1,-1,-1
+lba1,table,-1,-1,-1
+lba2,cookbook,-1,-1,-1
+lba3,wall,-1,-1,-1
+lba4,oven mitts,-1,-1,-1
+lba5,chicken,-1,-1,-1
+lba6,white book,-1,-1,-1
+lba7,avocado,-1,-1,-1
+lba8,mushroom,-1,-1,-1
+lba9,black books,-1,-1,-1
+lba10,books,-1,-1,-1
+nba1,table,-1,-1,-1
+nba2,cookbook,-1,-1,-1
+nba3,wall,-1,-1,-1
+nba4,oven mitts,-1,-1,-1
+nba5,chicken,-1,-1,-1
+nba6,white book,-1,-1,-1
+nba7,avocado,-1,-1,-1
+nba8,mushroom,-1,-1,-1
+nba9,black books,-1,-1,-1
+nba11,books,-1,-1,-1
+lfa1,yellow duck,-1,-1,-1
+lfa2,rubik's cube,-1,-1,-1
+lfa3,waldo,-1,-1,-1
+lfa4,twizzlers,-1,-1,-1
+lfa5,pikachu,-1,-1,-1
+lfa6,bag,-1,-1,-1
+lfa7,green apple,-1,-1,-1
+lfa8,black camera,-1,-1,-1
+lfa9,blue elephant,-1,-1,-1
+lfa10,brown rabbit,-1,-1,-1
+lfa11,pirate duck,-1,-1,-1
+lfa12,table,-1,-1,-1
+nfa1,yellow duck,-1,-1,-1
+nfa2,rubik's cube,-1,-1,-1
+nfa3,waldo,-1,-1,-1
+nfa4,twizzlers,-1,-1,-1
+nfa5,pikachu,-1,-1,-1
+nfa6,bag,-1,-1,-1
+nfa7,green apple,-1,-1,-1
+nfa8,black camera,-1,-1,-1
+nfa9,blue elephant,-1,-1,-1
+nfa10,brown rabbit,-1,-1,-1
+nfa11,pirate duck,-1,-1,-1
+nfa12,table,-1,-1,-1
+lra1,lemons,-1,-1,-1
+lra2,yellow bag,-1,-1,-1
+lra3,red apples,-1,-1,-1
+lra4,black bin,-1,-1,-1
+lra5,pretzels,-1,-1,-1
+lra6,shelf,-1,-1,-1
+lra7,oranges,-1,-1,-1
+lra8,purple bag,-1,-1,-1
+lra9,green apples,-1,-1,-1
+lra10,brown pears,-1,-1,-1
+lra11,stacked plums,-1,-1,-1
+lra12,bagged oranges,-1,-1,-1
+nra1,lemons,-1,-1,-1
+nra2,yellow bag,-1,-1,-1
+nra3,red apples,-1,-1,-1
+nra4,black bin,-1,-1,-1
+nra5,pretzels,-1,-1,-1
+nra6,shelf,-1,-1,-1
+nra7,oranges,-1,-1,-1
+nra8,purple bag,-1,-1,-1
+nra9,green apples,-1,-1,-1
+nra10,brown pears,-1,-1,-1
+nra11,stacked plums,-1,-1,-1
+nra12,bagged oranges,-1,-1,-1
+lbar1,a cookbook on a table,-1,-1,-1,-1
+lbar3,oven mitts on a wall,-1,-1,-1,-1
+lbar5,a chicken on a white book,-1,-1,-1,-1
+lbar7,a green avocado on a red mushroom,-1,-1,-1,-1
+lbar9,pink circles on a black book,-1,-1,-1,-1
+lbar11,a black book with white text,-1,-1,-1,-1
+nbar1,a cookbook on a table,-1,-1,-1,-1
+nbar3,oven mitts on a wall,-1,-1,-1,-1
+nbar5,a chicken on a white book,-1,-1,-1,-1
+nbar7,a green avocado on a red mushroom,-1,-1,-1,-1
+nbar9,pink circles on a black book,-1,-1,-1,-1
+nbar11,a black book with white text,-1,-1,-1,-1
+lfar1,a yellow duck on a rubik's cube,-1,-1,-1,-1
+lfar3,waldo in a box of twizzlers,-1,-1,-1,-1
+lfar5,pikachu on a bag,-1,-1,-1,-1
+lfar7,a green apple and a black camera,-1,-1,-1,-1
+lfar9,a pirate duck on a solved rubik's cube,-1,-1,-1,-1
+lfar11,a blue elephant looking at a brown rabbit,-1,-1,-1,-1
+nfar1,a yellow duck on a rubik's cube,-1,-1,-1,-1
+nfar3,waldo in a box of twizzlers,-1,-1,-1,-1
+nfar5,pikachu on a bag,-1,-1,-1,-1
+nfar7,a green apple and a black camera,-1,-1,-1,-1
+nfar9,a pirate duck on a solved rubik's cube,-1,-1,-1,-1
+nfar11,a blue elephant looking at a brown rabbit,-1,-1,-1,-1
+lrar1,lemons in a yellow bag,-1,-1,-1,-1
+lrar3,red apples inside a black bin,-1,-1,-1,-1
+lrar5,pretzels on a shelf,-1,-1,-1,-1
+lrar7,ripe oranges in a purple bag,-1,-1,-1,-1
+lrar9,green apples next to brown pears,-1,-1,-1,-1
+lrar11,stacked plums and bagged oranges,-1,-1,-1,-1
+nrar1,lemons in a yellow bag,-1,-1,-1,-1
+nrar3,red apples inside a black bin,-1,-1,-1,-1
+nrar5,pretzels on a shelf,-1,-1,-1,-1
+nrar7,ripe oranges in a purple bag,-1,-1,-1,-1
+nrar9,green apples next to brown pears,-1,-1,-1,-1
+nrar11,stacked plums and bagged oranges,-1,-1,-1,-1
+ltar1,a bear sitting at a table,-1,-1,-1,-1
+ltar3,a cookie on a plate,-1,-1,-1,-1
+ltar5,a spoon submerged in tea,-1,-1,-1,-1
+ltar7,a red apple next to brown soda,-1,-1,-1,-1
+ltar9,a bitten cookie on a white plate,-1,-1,-1,-1
+ltar11,a blue necklace on a plush sheep,-1,-1,-1,-1
+ntar1,a bear sitting at a table,-1,-1,-1,-1
+ntar3,a cookie on a plate,-1,-1,-1,-1
+ntar5,a spoon submerged in tea,-1,-1,-1,-1
+ntar7,a red apple next to brown soda,-1,-1,-1,-1
+ntar9,a bitten cookie on a white plate,-1,-1,-1,-1
+ntar11,a blue necklace on a plush sheep,-1,-1,-1,-1
+lbar1,a cookbook on a table,-1,-1,-1,-1
+lbar3,oven mitts on a wall,-1,-1,-1,-1
+lbar5,a chicken on a white book,-1,-1,-1,-1
+lbar7,a green avocado on a red mushroom,-1,-1,-1,-1
+lbar9,pink circles on a black book,-1,-1,-1,-1
+lbar11,a black book with white text,-1,-1,-1,-1
+nbar1,a cookbook on a table,-1,-1,-1,-1
+nbar3,oven mitts on a wall,-1,-1,-1,-1
+nbar5,a chicken on a white book,-1,-1,-1,-1
+nbar7,a green avocado on a red mushroom,-1,-1,-1,-1
+nbar9,pink circles on a black book,-1,-1,-1,-1
+nbar11,a black book with white text,-1,-1,-1,-1
+lfar1,a yellow duck on a rubik's cube,-1,-1,-1,-1
+lfar3,waldo in a box of twizzlers,-1,-1,-1,-1
+lfar5,pikachu on a bag,-1,-1,-1,-1
+lfar7,a green apple and a black camera,-1,-1,-1,-1
+lfar9,a pirate duck on a solved rubik's cube,-1,-1,-1,-1
+lfar11,a blue elephant looking at a brown rabbit,-1,-1,-1,-1
+nfar1,a yellow duck on a rubik's cube,-1,-1,-1,-1
+nfar3,waldo in a box of twizzlers,-1,-1,-1,-1
+nfar5,pikachu on a bag,-1,-1,-1,-1
+nfar7,a green apple and a black camera,-1,-1,-1,-1
+nfar9,a pirate duck on a solved rubik's cube,-1,-1,-1,-1
+nfar11,a blue elephant looking at a brown rabbit,-1,-1,-1,-1
+lrar1,lemons in a yellow bag,-1,-1,-1,-1
+lrar3,red apples inside a black bin,-1,-1,-1,-1
+lrar5,pretzels on a shelf,-1,-1,-1,-1
+lrar7,ripe oranges in a purple bag,-1,-1,-1,-1
+lrar9,green apples next to brown pears,-1,-1,-1,-1
+lrar11,stacked plums and bagged oranges,-1,-1,-1,-1
+nrar1,lemons in a yellow bag,-1,-1,-1,-1
+nrar3,red apples inside a black bin,-1,-1,-1,-1
+nrar5,pretzels on a shelf,-1,-1,-1,-1
+nrar7,ripe oranges in a purple bag,-1,-1,-1,-1
+nrar9,green apples next to brown pears,-1,-1,-1,-1
+nrar11,stacked plums and bagged oranges,-1,-1,-1,-1
+lba1,table,-1,-1,-1
+lba2,cookbook,-1,-1,-1
+lba3,wall,-1,-1,-1
+lba4,oven mitts,-1,-1,-1
+lba5,chicken,-1,-1,-1
+lba6,white book,-1,-1,-1
+lba7,avocado,-1,-1,-1
+lba8,mushroom,-1,-1,-1
+lba9,black books,-1,-1,-1
+lba10,books,-1,-1,-1
+nba1,table,-1,-1,-1
+nba2,cookbook,-1,-1,-1
+nba3,wall,-1,-1,-1
+nba4,oven mitts,-1,-1,-1
+nba5,chicken,-1,-1,-1
+nba6,white book,-1,-1,-1
+nba7,avocado,-1,-1,-1
+nba8,mushroom,-1,-1,-1
+nba9,black books,-1,-1,-1
+nba11,books,-1,-1,-1
+lfa1,yellow duck,-1,-1,-1
+lfa2,rubik's cube,-1,-1,-1
+lfa3,waldo,-1,-1,-1
+lfa4,twizzlers,-1,-1,-1
+lfa5,pikachu,-1,-1,-1
+lfa6,bag,-1,-1,-1
+lfa7,green apple,-1,-1,-1
+lfa8,black camera,-1,-1,-1
+lfa9,blue elephant,-1,-1,-1
+lfa10,brown rabbit,-1,-1,-1
+lfa11,pirate duck,-1,-1,-1
+lfa12,table,-1,-1,-1
+nfa1,yellow duck,-1,-1,-1
+nfa2,rubik's cube,-1,-1,-1
+nfa3,waldo,-1,-1,-1
+nfa4,twizzlers,-1,-1,-1
+nfa5,pikachu,-1,-1,-1
+nfa6,bag,-1,-1,-1
+nfa7,green apple,-1,-1,-1
+nfa8,black camera,-1,-1,-1
+nfa9,blue elephant,-1,-1,-1
+nfa10,brown rabbit,-1,-1,-1
+nfa11,pirate duck,-1,-1,-1
+nfa12,table,-1,-1,-1
+lra1,lemons,-1,-1,-1
+lra2,yellow bag,-1,-1,-1
+lra3,red apples,-1,-1,-1
+lra4,black bin,-1,-1,-1
+lra5,pretzels,-1,-1,-1
+lra6,shelf,-1,-1,-1
+lra7,oranges,-1,-1,-1
+lra8,purple bag,-1,-1,-1
+lra9,green apples,-1,-1,-1
+lra10,brown pears,-1,-1,-1
+lra11,stacked plums,-1,-1,-1
+lra12,bagged oranges,-1,-1,-1
+nra1,lemons,-1,-1,-1
+nra2,yellow bag,-1,-1,-1
+nra3,red apples,-1,-1,-1
+nra4,black bin,-1,-1,-1
+nra5,pretzels,-1,-1,-1
+nra6,shelf,-1,-1,-1
+nra7,oranges,-1,-1,-1
+nra8,purple bag,-1,-1,-1
+nra9,green apples,-1,-1,-1
+nra10,brown pears,-1,-1,-1
+nra11,stacked plums,-1,-1,-1
+nra12,bagged oranges,-1,-1,-1
+lta1,bear,-1,-1,-1
+lta2,table,-1,-1,-1
+lta3,cookies,-1,-1,-1
+lta4,plate,-1,-1,-1
+lta5,spoon,-1,-1,-1
+lta6,tea,-1,-1,-1
+lta7,apple,-1,-1,-1
+lta8,soda,-1,-1,-1
+lta9,bitten cookie,-1,-1,-1
+lta10,blue necklace,-1,-1,-1
+lta11,plush sheep,-1,-1,-1
+nta1,bear,-1,-1,-1
+nta2,table,-1,-1,-1
+nta3,cookies,-1,-1,-1
+nta4,plate,-1,-1,-1
+nta5,spoon,-1,-1,-1
+nta6,tea,-1,-1,-1
+nta7,apple,-1,-1,-1
+nta8,soda,-1,-1,-1
+nta9,bitten cookie,-1,-1,-1
+nta10,blue necklace,-1,-1,-1
+nta11,plush sheep,-1,-1,-1

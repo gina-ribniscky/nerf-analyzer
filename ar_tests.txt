@@ -35,3 +35,15 @@ nrar5,images/fruit_aisle_neglerf_lite_rgb_1.png,images/fruit_aisle_neglerf_lite_
 nrar7,images/fruit_aisle_neglerf_lite_rgb_1.png,images/fruit_aisle_neglerf_lite_vga_1.png,images/fruit_aisle_neglerf_lite_vga_2.png,ripe oranges in a purple bag
 nrar9,images/fruit_aisle_neglerf_lite_rgb_2.png,images/fruit_aisle_neglerf_lite_vga_3.png,images/fruit_aisle_neglerf_lite_vga_4.png,green apples next to brown pears
 nrar11,images/fruit_aisle_neglerf_lite_rgb_1.png,images/fruit_aisle_neglerf_lite_vga_5.png,images/fruit_aisle_neglerf_lite_vga_6.png,stacked plums and bagged oranges
+ltar1,images/teatime_lerf_lite_rgb_1.png,images/teatime_lerf_lite_vgr_1.png,images/teatime_lerf_lite_vgr_2.png,a bear sitting at a table
+ltar3,images/teatime_lerf_lite_rgb_1.png,images/teatime_lerf_lite_vgr_3.png,images/teatime_lerf_lite_vgr_4.png,a cookie on a plate
+ltar5,images/teatime_lerf_lite_rgb_1.png,images/teatime_lerf_lite_vgr_5.png,images/teatime_lerf_lite_vgr_6.png,a spoon submerged in tea
+ltar7,images/teatime_lerf_lite_rgb_1.png,images/teatime_lerf_lite_vga_1.png,images/teatime_lerf_lite_vga_2.png,a red apple next to brown soda
+ltar9,images/teatime_lerf_lite_rgb_1.png,images/teatime_lerf_lite_vga_3.png,images/teatime_lerf_lite_vga_4.png,a bitten cookie on a white plate
+ltar11,images/teatime_lerf_lite_rgb_1.png,images/teatime_lerf_lite_vga_5.png,images/teatime_lerf_lite_vga_6.png,a blue necklace on a plush sheep
+ntar1,images/teatime_neglerf_lite_rgb_1.png,images/teatime_neglerf_lite_vgr_1.png,images/teatime_neglerf_lite_vgr_2.png,a bear sitting at a table
+ntar3,images/teatime_neglerf_lite_rgb_1.png,images/teatime_neglerf_lite_vgr_3.png,images/teatime_neglerf_lite_vgr_4.png,a cookie on a plate
+ntar5,images/teatime_neglerf_lite_rgb_1.png,images/teatime_neglerf_lite_vgr_5.png,images/teatime_neglerf_lite_vgr_6.png,a spoon submerged in tea
+ntar7,images/teatime_neglerf_lite_rgb_1.png,images/teatime_neglerf_lite_vga_1.png,images/teatime_neglerf_lite_vga_2.png,a red apple next to brown soda
+ntar9,images/teatime_neglerf_lite_rgb_1.png,images/teatime_neglerf_lite_vga_3.png,images/teatime_neglerf_lite_vga_4.png,a bitten cookie on a white plate
+ntar11,images/teatime_neglerf_lite_rgb_1.png,images/teatime_neglerf_lite_vga_5.png,images/teatime_neglerf_lite_vga_6.png,a blue necklace on a plush sheep

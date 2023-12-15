@@ -67,3 +67,25 @@ nra9,images/fruit_aisle_neglerf_lite_rgb_2.png,images/fruit_aisle_neglerf_lite_a
 nra10,images/fruit_aisle_neglerf_lite_rgb_2.png,images/fruit_aisle_neglerf_lite_acc_10.png,brown pears
 nra11,images/fruit_aisle_neglerf_lite_rgb_1.png,images/fruit_aisle_neglerf_lite_acc_11.png,stacked plums
 nra12,images/fruit_aisle_neglerf_lite_rgb_1.png,images/fruit_aisle_neglerf_lite_acc_12.png,bagged oranges
+lta1,images/teatime_lerf_lite_rgb_1.png,images/teatime_lerf_lite_acc_1.png,bear
+lta2,images/teatime_lerf_lite_rgb_1.png,images/teatime_lerf_lite_acc_2.png,table
+lta3,images/teatime_lerf_lite_rgb_1.png,images/teatime_lerf_lite_acc_3.png,cookies
+lta4,images/teatime_lerf_lite_rgb_1.png,images/teatime_lerf_lite_acc_4.png,plate
+lta5,images/teatime_lerf_lite_rgb_1.png,images/teatime_lerf_lite_acc_5.png,spoon
+lta6,images/teatime_lerf_lite_rgb_1.png,images/teatime_lerf_lite_acc_6.png,tea
+lta7,images/teatime_lerf_lite_rgb_1.png,images/teatime_lerf_lite_acc_7.png,apple
+lta8,images/teatime_lerf_lite_rgb_1.png,images/teatime_lerf_lite_acc_8.png,soda
+lta9,images/teatime_lerf_lite_rgb_1.png,images/teatime_lerf_lite_acc_9.png,bitten cookie
+lta10,images/teatime_lerf_lite_rgb_1.png,images/teatime_lerf_lite_acc_10.png,blue necklace
+lta11,images/teatime_lerf_lite_rgb_1.png,images/teatime_lerf_lite_acc_11.png,plush sheep
+nta1,images/teatime_neglerf_lite_rgb_1.png,images/teatime_neglerf_lite_acc_1.png,bear
+nta2,images/teatime_neglerf_lite_rgb_1.png,images/teatime_neglerf_lite_acc_2.png,table
+nta3,images/teatime_neglerf_lite_rgb_1.png,images/teatime_neglerf_lite_acc_3.png,cookies
+nta4,images/teatime_neglerf_lite_rgb_1.png,images/teatime_neglerf_lite_acc_4.png,plate
+nta5,images/teatime_neglerf_lite_rgb_1.png,images/teatime_neglerf_lite_acc_5.png,spoon
+nta6,images/teatime_neglerf_lite_rgb_1.png,images/teatime_neglerf_lite_acc_6.png,tea
+nta7,images/teatime_neglerf_lite_rgb_1.png,images/teatime_neglerf_lite_acc_7.png,apple
+nta8,images/teatime_neglerf_lite_rgb_1.png,images/teatime_neglerf_lite_acc_8.png,soda
+nta9,images/teatime_neglerf_lite_rgb_1.png,images/teatime_neglerf_lite_acc_9.png,bitten cookie
+nta10,images/teatime_neglerf_lite_rgb_1.png,images/teatime_neglerf_lite_acc_10.png,blue necklace
+nta11,images/teatime_neglerf_lite_rgb_1.png,images/teatime_neglerf_lite_acc_11.png,plush sheep
