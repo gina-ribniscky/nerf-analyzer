@@ -1,0 +1,45 @@
+id,reference,image,prompt
+lba1,images/book_store_lerf_lite_rgb_1.png,images/book_store_lerf_lite_acc_1.png,table
+lba2,images/book_store_lerf_lite_rgb_1.png,images/book_store_lerf_lite_acc_2.png,cookbook
+lba3,images/book_store_lerf_lite_rgb_2.png,images/book_store_lerf_lite_acc_3.png,wall
+lba4,images/book_store_lerf_lite_rgb_2.png,images/book_store_lerf_lite_acc_4.png,oven mitts
+lba5,images/book_store_lerf_lite_rgb_2.png,images/book_store_lerf_lite_acc_5.png,chicken
+lba6,images/book_store_lerf_lite_rgb_2.png,images/book_store_lerf_lite_acc_6.png,white book
+lba7,images/book_store_lerf_lite_rgb_2.png,images/book_store_lerf_lite_acc_7.png,avocado
+lba8,images/book_store_lerf_lite_rgb_2.png,images/book_store_lerf_lite_acc_8.png,mushroom
+lba9,images/book_store_lerf_lite_rgb_1.png,images/book_store_lerf_lite_acc_9.png,black books
+lba10,images/book_store_lerf_lite_rgb_1.png,images/book_store_lerf_lite_acc_10.png,books
+nba1,images/book_store_lerf_lite_rgb_1.png,images/book_store_neglerf_lite_acc_1.png,table
+nba2,images/book_store_lerf_lite_rgb_1.png,images/book_store_neglerf_lite_acc_2.png,cookbook
+nba3,images/book_store_lerf_lite_rgb_2.png,images/book_store_neglerf_lite_acc_3.png,wall
+nba4,images/book_store_lerf_lite_rgb_2.png,images/book_store_neglerf_lite_acc_4.png,oven mitts
+nba5,images/book_store_lerf_lite_rgb_2.png,images/book_store_neglerf_lite_acc_5.png,chicken
+nba6,images/book_store_lerf_lite_rgb_2.png,images/book_store_neglerf_lite_acc_6.png,white book
+nba7,images/book_store_lerf_lite_rgb_2.png,images/book_store_neglerf_lite_acc_7.png,avocado
+nba8,images/book_store_lerf_lite_rgb_2.png,images/book_store_neglerf_lite_acc_8.png,mushroom
+nba9,images/book_store_lerf_lite_rgb_1.png,images/book_store_neglerf_lite_acc_9.png,black books
+nba11,images/book_store_lerf_lite_rgb_1.png,images/book_store_neglerf_lite_acc_11.png,books
+lfa1,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_acc_1.png,yellow duck
+lfa2,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_acc_2.png,rubik's cube
+lfa3,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_acc_3.png,waldo
+lfa4,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_acc_4.png,twizzlers
+lfa5,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_acc_5.png,pikachu
+lfa6,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_acc_6.png,bag
+lfa7,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_acc_7.png,green apple
+lfa8,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_acc_8.png,black camera
+lfa9,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_acc_9.png,blue elephant
+lfa10,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_acc_10.png,brown rabbit
+lfa11,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_acc_11.png,pirate duck
+lfa12,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_acc_13.png,table
+nfa1,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_acc_1.png,yellow duck
+nfa2,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_acc_2.png,rubik's cube
+nfa3,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_acc_3.png,waldo
+nfa4,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_acc_4.png,twizzlers
+nfa5,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_acc_5.png,pikachu
+nfa6,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_acc_6.png,bag
+nfa7,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_acc_7.png,green apple
+nfa8,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_acc_8.png,black camera
+nfa9,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_acc_9.png,blue elephant
+nfa10,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_acc_10.png,brown rabbit
+nfa11,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_acc_11.png,pirate duck
+nfa12,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_acc_13.png,table

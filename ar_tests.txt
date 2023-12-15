@@ -1,0 +1,25 @@
+id,reference,image1,image2,prompt
+lbar1, images/book_store_lerf_lite_rgb_1.png,images/book_store_lerf_lite_vgr_1.png,images/book_store_lerf_lite_vgr_2.png,a cookbook on a table
+lbar3, images/book_store_lerf_lite_rgb_2.png,images/book_store_lerf_lite_vgr_3.png,images/book_store_lerf_lite_vgr_4.png,oven mitts on a wall
+lbar5, images/book_store_lerf_lite_rgb_2.png,images/book_store_lerf_lite_vgr_5.png,images/book_store_lerf_lite_vgr_6.png,a chicken on a white book
+lbar7, images/book_store_lerf_lite_rgb_2.png,images/book_store_lerf_lite_vga_1.png,images/book_store_lerf_lite_vga_2.png,a green avocado on a red mushroom
+lbar9, images/book_store_lerf_lite_rgb_1.png,images/book_store_lerf_lite_vga_3.png,images/book_store_lerf_lite_vga_4.png,pink circles on a black book
+lbar11, images/book_store_lerf_lite_rgb_1.png,images/book_store_lerf_lite_vga_5.png,images/book_store_lerf_lite_vga_6.png,a black book with white text
+nbar1, images/book_store_neglerf_lite_rgb_1.png,images/book_store_neglerf_lite_vgr_1.png,images/book_store_neglerf_lite_vgr_2.png,a cookbook on a table
+nbar3, images/book_store_neglerf_lite_rgb_2.png,images/book_store_neglerf_lite_vgr_3.png,images/book_store_neglerf_lite_vgr_4.png,oven mitts on a wall
+nbar5, images/book_store_neglerf_lite_rgb_2.png,images/book_store_neglerf_lite_vgr_5.png,images/book_store_neglerf_lite_vgr_6.png,a chicken on a white book
+nbar7, images/book_store_neglerf_lite_rgb_2.png,images/book_store_neglerf_lite_vga_1.png,images/book_store_neglerf_lite_vga_2.png,a green avocado on a red mushroom
+nbar9, images/book_store_neglerf_lite_rgb_1.png,images/book_store_neglerf_lite_vga_3.png,images/book_store_neglerf_lite_vga_4.png,pink circles on a black book
+nbar11, images/book_store_neglerf_lite_rgb_1.png,images/book_store_neglerf_lite_vga_5.png,images/book_store_neglerf_lite_vga_6.png,a black book with white text
+lfar1,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_vgr_1.png,images/figurines_lerf_lite_vgr_2.png,a yellow duck on a rubik's cube
+lfar3,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_vgr_3.png,images/figurines_lerf_lite_vgr_4.png,waldo in a box of twizzlers
+lfar5,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_vgr_5.png,images/figurines_lerf_lite_vgr_6.png,pikachu on a bag
+lfar7,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_vgr_1.png,images/figurines_lerf_lite_vgr_2.png,a green apple and a black camera
+lfar9,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_vgr_3.png,images/figurines_lerf_lite_vgr_4.png,a pirate duck on a solved rubik's cube
+lfar11,images/figurines_lerf_lite_rgb_1.png,images/figurines_lerf_lite_vgr_5.png,images/figurines_lerf_lite_vgr_6.png,a blue elephant looking at a brown rabbit
+nfar1,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_vgr_1.png,images/figurines_neglerf_lite_vgr_2.png,a yellow duck on a rubik's cube
+nfar3,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_vgr_3.png,images/figurines_neglerf_lite_vgr_4.png,waldo in a box of twizzlers
+nfar5,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_vgr_5.png,images/figurines_neglerf_lite_vgr_6.png,pikachu on a bag
+nfar7,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_vgr_1.png,images/figurines_neglerf_lite_vgr_2.png,a green apple and a black camera
+nfar9,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_vgr_3.png,images/figurines_neglerf_lite_vgr_4.png,a pirate duck on a solved rubik's cube
+nfar11,images/figurines_neglerf_lite_rgb_1.png,images/figurines_neglerf_lite_vgr_5.png,images/figurines_neglerf_lite_vgr_6.png,a blue elephant looking at a brown rabbit
